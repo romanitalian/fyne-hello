@@ -2,6 +2,26 @@
 
 A simple Fyne application that demonstrates basic GUI functionality with a button and label.
 
+## Description
+
+This is a minimal example of a Fyne GUI application that showcases:
+- Basic window creation and management
+- Button widget implementation
+- Label widget with dynamic content
+- Event handling for button clicks
+- Layout management using containers
+- Modern Material Design-inspired UI
+
+The application serves as a starting point for learning Fyne toolkit and can be used as a template for building more complex desktop applications.
+
+## Screenshots
+
+### Initial State
+![Initial State](docs/screenshots/1-before-click.png)
+
+### After Click
+![After Click](docs/screenshots/2-after-click.png)
+
 ## Prerequisites
 
 - Go 1.24 or later
